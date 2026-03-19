@@ -25,7 +25,7 @@ I enjoy building dashboards, analyzing trends, and solving real-world problems w
 - Built interactive Power BI dashboard
 - Identified 34% loss-making transactions  
 
-👉 [image](Screenshot 2026-02-25 093903.jpg)
+![image](Screenshot 2026-02-25 093903.jpg)
 
 ---
 
