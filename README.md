@@ -44,7 +44,7 @@ Experienced in building dashboards, analyzing trends, and delivering data-driven
 ✔ Analyzed revenue trends  
 ✔ Identified top-performing products  
 <p align="center">
-  <img src="./dashboard.png" width="800"/>
+  <img src="./Screenshot 2025-12-03 144846.jpg" width="800"/>
 </p>
 ---
 
