@@ -34,21 +34,27 @@ Experienced in building dashboards, analyzing trends, and delivering data-driven
 ✔ Identified **34% loss-making transactions**  
 ✔ Built interactive Power BI dashboard  
 ✔ Provided cost-reduction insights  
-
+<p align="center">
+  <img src="./dashboard.png" width="800"/>
+</p>
 ---
 
 ### 📈 Sales Performance Dashboard  
 ✔ Designed KPI dashboards  
 ✔ Analyzed revenue trends  
 ✔ Identified top-performing products  
-
+<p align="center">
+  <img src="./dashboard.png" width="800"/>
+</p>
 ---
 
 ### 🌍 Public Health Data Analysis  
 ✔ Analyzed WHO dataset  
 ✔ Focus: **Anemia in pregnant women (15–49)**  
 ✔ Built Top 10 country comparison  
-
+<p align="center">
+  <img src="./dashboard.png" width="800"/>
+</p>
 ---
 
 ## 📊 GitHub Analytics  
