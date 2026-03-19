@@ -1,72 +1,83 @@
-# 👋 Hi, I'm Adeyeni Sunday Adekunle 
+<!-- 🔥 ANIMATED HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C853&center=true&vCenter=true&width=600&lines=Data+Analyst;Power+BI+Dashboard+Expert;SQL+%7C+Excel+%7C+Python;Turning+Data+into+Insights" />
+</p>
 
-🎯 **Data Analyst | Turning Data into Actionable Insights**   
+<h1 align="center">Hi 👋, I'm Adeyeni Sunday Adekunle</h1>
+<h3 align="center">📊 Data Analyst | Turning Data into Actionable Insights</h3>
 
 ---
 
 ## 🚀 Professional Summary  
-I am a results-driven Data Analyst with a strong passion for transforming raw data into meaningful insights that support decision-making. I specialize in building interactive dashboards, analyzing trends, and uncovering patterns that drive business performance.
+Results-driven Data Analyst skilled in transforming raw data into meaningful insights.  
+Experienced in building dashboards, analyzing trends, and delivering data-driven solutions that improve business performance.
 
 ---
 
-## 🛠 Technical Skills  
+## 🛠 Tech Stack  
 
-**Data Analysis & Visualization**  
-- Power BI (DAX, Dashboard Design, KPI Development)  
-- Microsoft Excel (Advanced Formulas, Pivot Tables, Data Cleaning)  
+### 📊 Data Analysis & Visualization  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**Data Management**  
-- SQL (Joins, Aggregations, Data Extraction)  
+### 🗄 Database  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-**Programming**  
-- Python (Pandas, Data Analysis)  
+### 🐍 Programming  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ## 📊 Featured Projects  
 
 ### 🏥 Clinic Financial Analysis  
-- Analyzed revenue, expenses, and profitability trends  
-- Identified **34% of transactions contributing to losses**  
-- Built an interactive Power BI dashboard  
-- Provided insights to improve financial performance  
+✔ Identified **34% loss-making transactions**  
+✔ Built interactive Power BI dashboard  
+✔ Provided cost-reduction insights  
 
 ---
 
 ### 📈 Sales Performance Dashboard  
-- Designed KPI dashboards to track sales and revenue  
-- Identified top-performing products and regions  
-- Improved business decision-making  
+✔ Designed KPI dashboards  
+✔ Analyzed revenue trends  
+✔ Identified top-performing products  
 
 ---
 
 ### 🌍 Public Health Data Analysis  
-- Analyzed WHO dataset on global health  
-- Focused on **prevalence of anemia in pregnant women (15–49)**  
-- Identified top 10 countries (highest & lowest rates)  
-- Built comparative visual reports  
+✔ Analyzed WHO dataset  
+✔ Focus: **Anemia in pregnant women (15–49)**  
+✔ Built Top 10 country comparison  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📌 What I’m Working On  
-- Building advanced Power BI dashboards  
-- Improving SQL skills  
-- Expanding my data portfolio  
+## 📌 Current Focus  
+- Advanced Power BI dashboards  
+- SQL for data extraction  
+- Real-world data projects  
 
 ---
 
 ## 🤝 Connect With Me  
-- 📧 Email: Adeyenisunday@gmail.com  
-- 💼 LinkedIn: your-link  
-- 🌐 Portfolio: your-website (optional)  
+
+<p align="left">
+<a href="your-linkedin-link" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:your@email.com">
+<img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 ---
 
@@ -74,8 +85,8 @@ I am a results-driven Data Analyst with a strong passion for transforming raw da
 ✔ Data Cleaning & Transformation  
 ✔ Dashboard Design & Storytelling  
 ✔ Business Insight Generation  
-✔ Problem-Solving with Data  
+✔ Analytical Problem-Solving  
 
 ---
 
-⭐ *Open to Data Analyst opportunities and collaborations.*
+⭐ **Open to Data Analyst roles, internships, and collaborations**
