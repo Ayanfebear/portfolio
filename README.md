@@ -43,7 +43,7 @@ I enjoy building dashboards, analyzing trends, and solving real-world problems w
 ---
 
 ## 📫 Contact Me
-- Email: your@email.com  
+- Email: adeyenisunday@gmail.com  
 - LinkedIn: your link  
 
 ---
