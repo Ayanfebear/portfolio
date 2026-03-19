@@ -74,11 +74,15 @@ Experienced in building dashboards, analyzing trends, and delivering data-driven
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:Adeyenisunday@gmail.com">
 <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
+<a href="https://x.com/@AYanFe87970214" target="blank">
+<img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+</p>
 ---
 
 ## 💡 Core Strengths  
