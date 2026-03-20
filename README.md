@@ -97,22 +97,22 @@ Experienced in building dashboards, analyzing trends, and delivering data-driven
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      z
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 7082796631</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Ibadan, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
       <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
     </tr>
     <tr>
-      <td>🌐</td>
+      
      
 
 </table>
