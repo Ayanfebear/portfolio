@@ -89,7 +89,7 @@ Experienced in building dashboards, analyzing trends, and delivering data-driven
 <img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 </p>
----
+
  <td>📞</td>
       <td>(234) 7082796631</td>
     </tr>
@@ -99,7 +99,7 @@ Experienced in building dashboards, analyzing trends, and delivering data-driven
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="my resume2.pdf">Download my CV</a></td>
     </tr>
     <tr>
       
