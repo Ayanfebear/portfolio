@@ -90,24 +90,6 @@ Experienced in building dashboards, analyzing trends, and delivering data-driven
 </a>
 </p>
 
- <td>📞</td>
-      <td>(234) 7082796631</td>
-    </tr>
-    <tr>
-      <td>📍</td>
-      <td>Ibadan, Nigeria</td>
-    </tr>
-    <tr>
-      <td>⬇️</td>
-      <td><a href="my resume2.pdf">Download my CV</a></td>
-    </tr>
-    <tr>
-      
-     
-
-</table>
-
-
 
 
 
