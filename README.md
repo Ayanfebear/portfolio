@@ -90,6 +90,38 @@ Experienced in building dashboards, analyzing trends, and delivering data-driven
 </a>
 </p>
 ---
+## CONTACT DETAILS
+
+*Let’s connect and see how we can make a difference together!*
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(234) 816-763-7212</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>PH, Nigeria</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+     
+
+</table>
+
+   
+
+
+
+
 
 ## 💡 Core Strengths  
 ✔ Data Cleaning & Transformation  
