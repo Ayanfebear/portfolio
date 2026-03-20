@@ -90,17 +90,7 @@ Experienced in building dashboards, analyzing trends, and delivering data-driven
 </a>
 </p>
 ---
-## CONTACT DETAILS
-
-*Let’s connect and see how we can make a difference together!*
-<table>
-  <tbody>
-    <tr>
-      <td>📧</td>
-      z
-    </tr>
-    <tr>
-      <td>📞</td>
+ <td>📞</td>
       <td>(234) 7082796631</td>
     </tr>
     <tr>
@@ -117,7 +107,6 @@ Experienced in building dashboards, analyzing trends, and delivering data-driven
 
 </table>
 
-   
 
 
 
