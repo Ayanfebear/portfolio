@@ -57,14 +57,6 @@ Experienced in building dashboards, analyzing trends, and delivering data-driven
 </p>
 ---
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 📌 Current Focus  
 - Advanced Power BI dashboards  
