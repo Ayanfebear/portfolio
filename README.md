@@ -53,7 +53,7 @@ Experienced in building dashboards, analyzing trends, and delivering data-driven
 ✔ Focus: **Anemia in pregnant women (15–49)**  
 ✔ Built Top 10 country comparison  
 <p align="center">
-  <img src="./dashboard.png" width="800"/>
+  <img src="./Screenshot 2026-03-30 184407.png" width="800"/>
 </p>
 ---
 
