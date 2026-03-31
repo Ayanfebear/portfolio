@@ -56,7 +56,7 @@ Experienced in building dashboards, analyzing trends, and delivering data-driven
   <img src="./Screenshot 2026-03-30 184407.png" width="800"/>
 </p> 
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the full report here (pdf file)</a>
+<a href="Anemia_Portfolio_Case_Study.pdf">Download the full report here (pdf file)</a>
 
 ---
 
