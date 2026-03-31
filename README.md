@@ -37,6 +37,10 @@ Experienced in building dashboards, analyzing trends, and delivering data-driven
 <p align="center">
   <img src="./Screenshot 2026-02-25 093903.jpg" width="800"/>
 </p>
+
+
+<a href="Clinic Financial Performance Analysis Project.pdf">Download the full report here (pdf file)</a>
+
 ---
 
 ### 📈 Sales Performance Dashboard  
