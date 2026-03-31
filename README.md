@@ -35,7 +35,7 @@ Experienced in building dashboards, analyzing trends, and delivering data-driven
 ✔ Built interactive Power BI dashboard  
 ✔ Provided cost-reduction insights  
 <p align="center">
-  <img src="./Screenshot 2026-02-25 093903.jpg" width="800"/>
+  <img src=".Picture1.png" width="800"/>
 </p>
 
 
